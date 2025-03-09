@@ -5,3 +5,4 @@ Improve performance [tIrVyK] line 3.2
 Update documentation [9fm0lu] line 4.1
 Update documentation [bI6Bry] line 10.3
 Update documentation [p7CGVP] line 12.2
+Add test case for W [6i66LX] line 13.2
